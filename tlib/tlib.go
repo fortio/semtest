@@ -1,0 +1,4 @@
+package tlib
+
+func DoSomething() {
+}

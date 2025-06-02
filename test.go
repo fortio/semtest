@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"fortio.org/fortio/version"
+	"fortio.org/version"
 )
 
 func main() {
